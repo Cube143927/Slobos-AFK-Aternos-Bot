@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "marcocoolness.aternos.me:61732",
+    "ip": "marcocoolness.aternos.me",
     "port": 61732,
     "version": "1.21.1",
     "try-creative": false
